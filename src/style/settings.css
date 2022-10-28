@@ -1,0 +1,19 @@
+.outer-container{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0;
+}
+
+.inner-container{
+    margin: 5em;
+}
+
+.column{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3em;
+    padding: 6em;
+    border: solid black 0.1em;
+    height: 20rem;
+}
